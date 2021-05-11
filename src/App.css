@@ -24,6 +24,11 @@
   color: white;
 }
 
+@font-face {
+  font-family: "RobotoMono";
+  src: local("RobotoMono"), url(./fonts/RobotoMono-Regular.ttf) format("ttf");
+}
+
 .App-link {
   color: #61dafb;
 }
